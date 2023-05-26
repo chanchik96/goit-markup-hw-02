@@ -77,7 +77,7 @@ body {
   color: var(--iris-color);
 }
 
-.logo-span {
+.header .logo-span {
   color: var(--navy-blue-color);
 }
 
@@ -156,7 +156,7 @@ body {
 
 /* ===== FOOTER ===== */
 
-.footer .logo {
+.footer .logo-span {
   color: var(--white-color);
 }
 
