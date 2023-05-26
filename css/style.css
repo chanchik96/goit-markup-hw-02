@@ -122,10 +122,6 @@ body {
   background-color: var(--ocean-color);
 }
 
-.list-item-title {
-  color: var(--dark-color);
-}
-
 .text {
   font-size: 16px;
   line-height: 1.5;
