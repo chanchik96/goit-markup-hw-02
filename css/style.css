@@ -37,7 +37,7 @@ body {
   background-color: var(--white-color);
 }
 
-.main-title {
+.hero-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -61,8 +61,8 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  text-transform: capitalize;
   color: var(--navy-blue-color);
+  text-transform: capitalize;
 }
 
 /* ===== HEADER ===== */
@@ -115,8 +115,6 @@ body {
 .hero .button {
   color: var(--white-color);
   background-color: var(--iris-color);
-  border: none;
-  outline: none;
   cursor: pointer;
 }
 
@@ -169,7 +167,6 @@ body {
 .portfolio .list .button {
   color: var(--iris-color);
   background-color: var(--cloud-color);
-  border: 1px solid var(--cornflower-color);
   cursor: pointer;
 }
 
