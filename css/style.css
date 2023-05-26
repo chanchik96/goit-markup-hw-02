@@ -62,6 +62,7 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  color: var(--navy-blue-color);
 }
 
 /* ===== HEADER ===== */
@@ -169,18 +170,12 @@ body {
   color: var(--iris-color);
   background-color: var(--cloud-color);
   border: 1px solid var(--cornflower-color);
-  border-radius: 4px;
   cursor: pointer;
 }
 
 .portfolio .list .button:is(:hover, :focus) {
   color: var(--white-color);
   background-color: var(--ocean-color);
-  border: 1px solid var(--ocean-color);
-}
-
-.portfolio .card-item {
-  border: 1px solid var(--cornflower-color);
 }
 
 .portfolio .card-item-link {
