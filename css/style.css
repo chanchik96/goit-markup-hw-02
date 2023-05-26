@@ -87,7 +87,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--navy-blue-color);
-  position: relative;
 }
 
 .nav-link:is(:hover, :focus),
@@ -151,7 +150,7 @@ body {
 /* ===== FOOTER ===== */
 
 .footer .logo-span {
-  color: var(--white-color);
+  color: var(--cloud-color);
 }
 
 .footer .text {
